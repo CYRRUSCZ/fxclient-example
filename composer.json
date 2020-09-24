@@ -1,0 +1,14 @@
+{
+    "name": "cyrrusfx/example",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CFX\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.1"
+    }
+}
